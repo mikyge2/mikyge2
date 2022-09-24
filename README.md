@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Getu
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Michael Getu
 ====================================================================================================================================
 
 Passionate Software Engineer Student
@@ -10,6 +10,9 @@ I've been learning to code for the past 3 years. I'm currently pursuing an under
 * ✉️  You can contact me at [michaelgetuk@yahoo.com](mailto:michaelgetuk@yahoo.com)
 * 🚀  I'm currently working on [Airline Booking System](http://github.com/mikyge2/Airline_Booking_System)
 * 🧠  I'm learning JavaScript, React and Node.JS
+
+<a href="https://www.github.com/mikyge2" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mikyge2?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 ### Skills
 
