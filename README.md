@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer Student
 ------------------------------------
 
+![programming-languages](https://user-images.githubusercontent.com/103429957/192101120-7f68fa6b-bdd2-46eb-9f50-d7629e32709e.jpg)
+
+
 I've been learning to code for the past 3 years. I'm currently pursuing an undergraduate degree with a major of Computer science at HiLCoE College in Ethiopia. Moreover, I'm a student of the ALX Software Engineering Programme.
 
 * 🌍    I'm based in Addis Ababa, Ethiopia
