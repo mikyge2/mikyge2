@@ -6,10 +6,12 @@ Software Engineer Student
 
 I've been learning to code for the past 3 years. I'm currently pursuing an undergraduate degree with a major of Computer science at HiLCoE College in Ethiopia. Moreover, I'm a student of the ALX Software Engineering Programme.
 
-* 🌍  I'm based in Addis Ababa, Ethiopia
-* ✉️  You can contact me at [michaelgetuk@yahoo.com](mailto:michaelgetuk@yahoo.com)
-* 🚀  I'm currently working on [Airline Booking System](http://github.com/mikyge2/Airline_Booking_System)
-* 🧠  I'm learning JavaScript, React and Node.JS
+* 🌍    I'm based in Addis Ababa, Ethiopia
+* ✉️    You can contact me at [michaelgetuk@yahoo.com](mailto:michaelgetuk@yahoo.com)
+* 🚀    I'm currently working on [Airline Booking System by CSharp](http://github.com/mikyge2/Airline_Booking_System)
+* <./>  Past worked on Projects - [Library Managing System by C++](https://github.com/mikyge2/Library_System)
+                                - [Airline Booking System by Java](https://github.com/mikyge2/Airline_Reservation_System_Java)
+* 🧠     I'm learning JavaScript, React and Node.JS
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
