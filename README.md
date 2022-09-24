@@ -23,13 +23,13 @@ I've been learning to code for the past 3 years. I'm currently pursuing an under
 
 <p align="left"> <a href="https://www.github.com/mikyge2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mikyge2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mikyge2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/mikyge2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mikyge2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-###My GitHub Stats
+### My GitHub Stats
 
 <a href="http://www.github.com/mikyge2"><img src="https://github-readme-stats.vercel.app/api?username=mikyge2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="mikyge2's GitHub stats" /></a>
 
 <a href="http://www.github.com/mikyge2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikyge2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikyge2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<b> Note: The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level <b>
+<b> Note: The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level </b>
 
 <a href="http://www.github.com/mikyge2"><img src="https://activity-graph.herokuapp.com/graph?username=mikyge2&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
