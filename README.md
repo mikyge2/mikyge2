@@ -1,7 +1,7 @@
    Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Michael Getu
 ====================================================================================================================================
 
-   Software Engineer Student
+   Software Engineering Student
 ------------------------------------
 
 I've been learning to code for the past 3 years. I'm currently pursuing an undergraduate degree with a major of Computer science at HiLCoE College in Ethiopia. Moreover, I'm a student of the ALX Software Engineering Programme.
