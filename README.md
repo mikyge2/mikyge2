@@ -8,10 +8,11 @@ I've been learning to code for the past 3 years. I'm currently pursuing an under
 
 * 🌍    I'm based in Addis Ababa, Ethiopia
 * ✉️    You can contact me at [michaelgetuk@yahoo.com](mailto:michaelgetuk@yahoo.com)
-* 🚀    I'm currently working on [Cinema Reservation System by CSharp](https://github.com/mikyge2/Cinima-Reservation-System-C-Sharp)
+* 🚀    I'm currently working on [Shoe E-Commerce Website by HTML,CSS,JS,PHP](https://github.com/mikyge2/Shoe-X-Shoe-Ordering-Website)
 * <./>  Past worked on Projects:
 * [Library Managing System by C++](https://github.com/mikyge2/Library_System)
 * [Airline Booking System by CSharp](https://github.com/nati-terefe/C-sharp-and-db-final-project-Airline-reservation-system-)
+* [Cinema Reservation System by CSharp](https://github.com/mikyge2/Cinima-Reservation-System-C-Sharp)
 * 🧠     I'm learning JavaScript, React and Node.JS
 
 ### Random Dev Quote
