@@ -4,7 +4,7 @@
    Software Engineering Student
 ------------------------------------
 
-I've been learning to code for the past 3 years. I'm currently pursuing an undergraduate degree with a major of Computer science at HiLCoE College in Ethiopia. Moreover, I'm a student of the ALX Software Engineering Programme.
+I've been learning to code for the past 3 years. I'm currently pursuing an undergraduate degree with a major of Computer science at HiLCoE College in Ethiopia. Moreover, I'm a Graduate of the ALX Software Engineering Programme.
 
 * 🌍    I'm based in Addis Ababa, Ethiopia
 * ✉️    You can contact me at [michaelgetuk@yahoo.com](mailto:michaelgetuk@yahoo.com)
