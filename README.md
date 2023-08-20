@@ -13,6 +13,7 @@ I've been learning to code for the past 3 years. I'm currently pursuing an under
 * [Library Managing System by C++](https://github.com/mikyge2/Library_System)
 * [Airline Booking System by CSharp](https://github.com/nati-terefe/C-sharp-and-db-final-project-Airline-reservation-system-)
 * [Cinema Reservation System by CSharp](https://github.com/mikyge2/Cinima-Reservation-System-C-Sharp)
+* [Shoe X - Shoe Show Casing and Ordeing Website](https://github.com/mikyge2/Shoe-X---Website-for-Shoe-Ordering)
 * 🧠     I'm learning JavaScript, React and Node.JS
 
 ### Random Dev Quote
