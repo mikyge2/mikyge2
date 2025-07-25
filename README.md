@@ -16,18 +16,18 @@
 
 
 ### <./> Past Projects
-## Passion Projects
+#### Passion Projects
 * [Subscription Tracker](https://github.com/mikyge2/Subscription_Tracker) Hosted @ http://subs-tracker-steel.vercel.app/
 * [Abol Reporting](https://github.com/mikyge2/AbolReport) Hosted @ https://abol-report.vercel.app/
 * [Safe International Import, Export and Travel](https://github.com/mikyge2/SafeInternational) Hosted @ http://www.safeinternationalsiier.com/
 
-## School Based Projects
-# HiLCoE
+#### School Based Projects
+##### HiLCoE
 * [Library Managing System by C++](https://github.com/mikyge2/Library_System)
 * [Airline Booking System by CSharp](https://github.com/nati-terefe/C-sharp-and-db-final-project-Airline-reservation-system-)
 * [Cinema Reservation System by CSharp](https://github.com/mikyge2/Cinima-Reservation-System-C-Sharp)
 * [Shoe X - Shoe Show Casing and Ordeing Website](https://github.com/mikyge2/Shoe-X---Website-for-Shoe-Ordering) 
-# ALX
+##### ALX
 * [AirBnb Clone Ver 1](https://github.com/mikyge2/AirBnB_clone)
 * [AirBnb Clone Ver 2](https://github.com/mikyge2/AirBnB_clone_v2)
 * [AirBnb Clone Ver 3](https://github.com/mikyge2/AirBnB_clone_v3)
