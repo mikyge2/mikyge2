@@ -30,6 +30,7 @@
 * [Cinema Reservation System by CSharp](https://github.com/mikyge2/Cinima-Reservation-System-C-Sharp)
 * [Shoe X - Shoe Show Casing and Ordeing Website](https://github.com/mikyge2/Shoe-X---Website-for-Shoe-Ordering)
 * [Multi-Tier Enterprise Network](https://github.com/mikyge2/Multi-Tier-Enterprise-Network)
+* [Machine Learning Problems](https://github.com/mikyge2/AI-CS488-ML-Problems)
 ##### ALX
 * [AirBnb Clone Ver 1](https://github.com/mikyge2/AirBnB_clone)
 * [AirBnb Clone Ver 2](https://github.com/mikyge2/AirBnB_clone_v2)
