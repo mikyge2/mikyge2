@@ -36,6 +36,11 @@
 * [AirBnb Clone Ver 2](https://github.com/mikyge2/AirBnB_clone_v2)
 * [AirBnb Clone Ver 3](https://github.com/mikyge2/AirBnB_clone_v3)
 * [AirBnb Clone Ver 4](https://github.com/mikyge2/AirBnB_clone_v4)
+* [Sorting Algorithms](https://github.com/mikyge2/sorting_algorithms)
+
+#### Important Repositories
+* [Binary Trees](https://github.com/mikyge2/binary_trees)
+* [RSA Factoring](https://github.com/mikyge2/RSA-Factoring-Challenge)
 
 
 ### Random Dev Quote
