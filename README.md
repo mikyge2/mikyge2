@@ -11,7 +11,7 @@
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [michaelgetuk@gmail.com](mailto:michaelgetuk@gmail.com)
 * 🚀  I'm currently working on [Subscription Tracker](http://subs-tracker-steel.vercel.app/)
-* 🧠  I'm learning JWT, Rate Limiting and Workflow with my current project and tring to get into typescript.
+* 🧠  I'm learning JWT, Rate Limiting and Workflow with my current project and trying to get into typescript.
 * 🤝  I'm open to collaborating on Any projects that will challenge me and teach me new things
 
 
