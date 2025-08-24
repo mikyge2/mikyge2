@@ -10,14 +10,14 @@
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [michaelgetuk@gmail.com](mailto:michaelgetuk@gmail.com)
-* 🚀  I'm currently working on [Subscription Tracker](http://subs-tracker-steel.vercel.app/)
-* 🧠  I'm learning JWT, Rate Limiting and Workflow with my current project and trying to get into typescript.
+* 🚀  I'm currently working on my Senior Project
+* 🧠  I'm learning Image Recognition, AI and much more.
 * 🤝  I'm open to collaborating on projects that will challenge me and teach me new things
 
 
 ### <./> Past Projects
 #### Passion Projects
-* [Subscription Tracker](https://github.com/mikyge2/Subscription_Tracker) Hosted @ http://subs-tracker-steel.vercel.app/
+* [Subscription Tracker](https://github.com/mikyge2/Subscription_Tracker) Hosted @ https://subscription-track.vercel.app/
 
 #### Work Projects
 * [Abol Reporting](https://github.com/mikyge2/AbolReport) Hosted @ https://reports.abolconsortium.com/
